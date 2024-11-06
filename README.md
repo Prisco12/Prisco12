@@ -14,6 +14,4 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prisco12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Snake animation](https://github.com/Prisco12/Prisco12/blob/output/github-contribution-grid-snake-dark.svg)
