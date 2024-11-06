@@ -1,11 +1,10 @@
-<h1 align="center">Gabriel de Oliveira Prisco da Cunha</h1>
-<h3 align="center">Developer</h3>
+<h1>Gabriel de Oliveira Prisco da Cunha</h1>
+<h3>Developer</h3>
 
-<p align="center">
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=vscode,javascript,css,html,nodejs,ts,express,nest,py,git,figma,github,linux,ubuntu,postman,mongodb" />
   </a>
-</p>
+
  <div> 
   <a href="https://github.com/Prisco12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prisco12&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
