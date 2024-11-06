@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,react,nodejs,express,nest,figma,github,linux,postman,mongodb,discord,linkedin,instagram" />
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,css,html,nodejs,express,nest,git,figma,github,linux,postman,mongodb" />
   </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/Prisco12">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prisco12&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prisco12&layout=compact&langs_count=7&theme=transparent"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Prisco12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
